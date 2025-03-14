@@ -11,7 +11,3 @@
 
 ## 📊 GitHub 貢獻統計
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=catpupu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔥 連續貢獻天數
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catpupu&theme=dark)](https://git.io/streak-stats)
-
